@@ -1,0 +1,5 @@
+flask
+mysql-connector-python
+sqlalchemy
+flask_sqlalchemy
+requests
