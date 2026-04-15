@@ -236,9 +236,3 @@ The project leverages Docker to run MySQL alongside the Flask application, facil
 - MySQL Official Guide: https://dev.mysql.com/doc/
 - Python Virtual Environments: https://docs.python.org/3/tutorial/venv.html
 
-## Contributors
-
-- Aakash Gupta
-- Rajanyo Paul
-- Avik Pramanick
-- Soham Banerjee
